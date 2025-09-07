@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Node
+node_modules/
+build/
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
